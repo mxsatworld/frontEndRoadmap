@@ -26,3 +26,19 @@ Internet: group of networks connected to each other
 The internet connects all this networks and computers using a set of standarized protocols and routers (the routers routes the packets and tells them at what IP Address have to go)
 
 Packets: When sending data through internet the file is divided into small units called packets, later the receiver of this packets unites them and reconstructs the original file
+
+Router: Device that tells the packets where to go
+
+Domain Name: The human readable Address of a server (www.google.com for example)
+
+DNS: Domain Name System, converts Domain names into IP Addresses and viceversa
+
+HTTP: Hyper Text Transfer Protocol, protocol used to transfer data between the server and the client
+
+HTTPS: Encrypted version of HTTP, uses SSl/TLS protocol to encrypt the data
+
+SSL/TLS: Secure Socket Layer/Transport Layer Security, provide secure comunications to the internet
+
+IP is responsible for routing
+TCP or UDP both are responsibles for checking that the packets arrive in a reliable and eficcient way, UDP is the updated version of TCP
+
