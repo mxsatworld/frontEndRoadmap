@@ -55,7 +55,7 @@ the internet backbone is made of large networks connected to each other, this gi
 ![graph of the internet infrastructure](internetInfrastructure.gif)
 
 As for routing the routers only know the IP Addresses of the devices that are below them in the hierarchy, if a router receive a packet with an IP Address that is not below them they send it to a router higher in the hierarchy and so on until the packet found the destiny device
-
+![graph of the routing of routers](routerRouting.gif)
 # SSL/TLS
 SSL/TLS: Secure Socket Layer/Transport Layer Security, provide secure comunications to the internet
 
